@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/holo_blue_light">
+    <RelativeLayout
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="72dp"
+        android:background="@android:color/holo_blue_light">
+        <Button
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:background="@drawable/appbarChevronLeft"
+            android:id="@+id/btnBack"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" />
+        <Button
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:background="@drawable/appbarChevronRight"
+            android:id="@+id/btnFoward"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+    </RelativeLayout>
+    <TextView
+        android:text="Seu login é: "
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLoginResult"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="Sua senha é:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textColor="@android:color/background_light" />
+    <TextView
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvSenhaResult"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:textColor="@android:color/background_light" />
+</LinearLayout>

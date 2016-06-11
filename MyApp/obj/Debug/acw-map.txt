@@ -1,0 +1,12 @@
+MyApp.MainActivity, MyApp;md5e1f9492bb4d5a0f5244682d2994b49eb.MainActivity
+MyApp.MainActivity, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1f9492bb4d5a0f5244682d2994b49eb.MainActivity
+MyApp.MainActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.MainActivity
+myapp.MainActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.MainActivity
+MyApp.SegundaTelaActivity, MyApp;md5e1f9492bb4d5a0f5244682d2994b49eb.SegundaTelaActivity
+MyApp.SegundaTelaActivity, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1f9492bb4d5a0f5244682d2994b49eb.SegundaTelaActivity
+MyApp.SegundaTelaActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.SegundaTelaActivity
+myapp.SegundaTelaActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.SegundaTelaActivity
+MyApp.TerceiraTelaActivity, MyApp;md5e1f9492bb4d5a0f5244682d2994b49eb.TerceiraTelaActivity
+MyApp.TerceiraTelaActivity, MyApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e1f9492bb4d5a0f5244682d2994b49eb.TerceiraTelaActivity
+MyApp.TerceiraTelaActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.TerceiraTelaActivity
+myapp.TerceiraTelaActivity;md5e1f9492bb4d5a0f5244682d2994b49eb.TerceiraTelaActivity
